@@ -1,0 +1,30 @@
+[
+    {
+        "model": "game_rater_api.game",
+        "pk": 1,
+        "fields": {
+            "title": "Call of duty",
+            "description": "if you know you know",
+            "designer": "Dice Game Design",
+            "year_released": 2000,
+            "number_of_players": 16,
+            "estimated_time_to_play": 40,
+            "age_recommendation": 12,
+            "first_reviewer": 1  
+        }
+    },
+    {
+        "model": "game_rater_api.game",
+        "pk": 2,
+        "fields": {
+            "title": "Battlefield",
+            "description": "like cod but better",
+            "designer": "Microsoft Game Design",
+            "year_released": 1990,
+            "number_of_players": 20,
+            "estimated_time_to_play": 50,
+            "age_recommendation": 10,
+            "first_reviewer": 2  
+        }
+    }
+]

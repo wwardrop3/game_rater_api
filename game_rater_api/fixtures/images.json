@@ -1,0 +1,21 @@
+[
+    {
+        "model": "game_rater_api.image",
+        "pk": 1,
+        "fields": {
+            "game": 1,
+            "reviewer": 1,
+            "image_url": "https://i.guim.co.uk/img/media/970d0adca5d95808af3a3044b9a90acac4644497/430_12_2896_1738/master/2896.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=e8b77bb30f6e5932ed99af4616f62b3e"
+        }
+    },
+    {
+        "model": "game_rater_api.image",
+        "pk": 2,
+        "fields": {
+            "game": 1,
+            "reviewer": 2,
+            "image_url": "https://www.playstationlifestyle.net/assets/uploads/2022/02/call-of-duty-modern-warfare.jpg"
+        }
+    }
+
+]

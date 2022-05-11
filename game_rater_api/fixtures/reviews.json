@@ -1,0 +1,23 @@
+[
+
+    {
+        "model": "game_rater_api.review",
+        "pk": 1,
+        "fields": {
+            "review_text": "This game stinks",
+            "rating": 4.2,
+            "game": 1,
+            "reviewer": 1
+        }
+    },
+    {
+        "model": "game_rater_api.review",
+        "pk": 2,
+        "fields": {
+            "review_text": "This game is great",
+            "rating": 9.0,
+            "game": 1,
+            "reviewer": 2
+        }
+    }
+]

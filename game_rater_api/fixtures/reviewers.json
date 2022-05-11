@@ -1,0 +1,18 @@
+[
+    {
+        "model": "game_rater_api.reviewer",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "bio": "I'm a negative guy"
+        }
+    },
+    {
+        "model": "game_rater_api.reviewer",
+        "pk": 2,
+        "fields": {
+            "user": 2,
+            "bio": "I'm a positive guy"
+        }
+    }
+]
